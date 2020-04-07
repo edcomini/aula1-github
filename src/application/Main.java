@@ -21,6 +21,8 @@ public class Main {
 		
 		System.out.println("Minutes: " + minutes);
 		System.out.println("Month: " + month);
+		
+		System.out.println("Bom dia!");
 	}
 
 }
